@@ -2,6 +2,7 @@
 =========================================================
 Jose Gonzalez
 May 2014
+
 =========================================================
 
 The purpose of this project is to collect data and work with it to prepare tidy data that can be used for later analysis.
